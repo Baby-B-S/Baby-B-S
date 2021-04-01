@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Baby-B-S
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Baby-B-S/Baby-B-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Baby-B-S, i - 15 apprentice, which want to learn Computer Science, and also my experience  half-year. 
+- 👀 I’m interested in ML (my dream)
+- 🌱 I’m currently learning C#
+- 💞️ I’m don't  looking to collaborate, 'cause i realy weak
